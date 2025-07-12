@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ccr_app</string>
+    <string name="home">Home</string>
+    <string name="citycycle_logo">CityCycle Logo</string>
+    <string name="pricing_plans">Pricing Plans</string>
+    <string name="payment_information">Payment Information</string>
+    <string name="card_number">Card Number</string>
+    <string name="cardholder_name">Cardholder Name</string>
+    <string name="expiry_date_mm_yy">Expiry Date (MM/YY)</string>
+    <string name="add_payment_method">Add Payment Method</string>
+    <string name="cvv">CVV</string>
+    <string name="todo">TODO</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account? Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="pricing_and_payment">Pricing and Payment</string>
+    <string name="confirm_end">Confirm End</string>
+    <string name="cancel">Cancel</string>
+    <string name="duration_00_00_00">Duration: 00:00:00</string>
+    <string name="bike_n_a">Bike: N/A</string>
+    <string name="end_rental">End Rental</string>
+    <string name="cost_0_00">Cost: $0.00</string>
+    <string name="search_by_location">Search by location</string>
+    <string name="find">Find</string>
+    <string name="reserve_a_bike">Reserve a Bike</string>
+    <string name="rent_a_bike">Rent a Bike</string>
+
+    <string-array name="role_array">
+        <item>Admin</item>
+        <item>User</item>
+    </string-array>
+</resources>
